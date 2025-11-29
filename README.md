@@ -18,11 +18,17 @@ This project implements a complete number guessing game using only Python's stan
 ## Demo
 
 Guess a number between 1 and 100 (max 10 attempts)!
+
 Attempt 1: 50
+
 Too high!
+
 Attempt 2: 30
+
 Very close! Try a bit higher or lower.
+
 Attempt 3: 35
+
 Correct! You won in 3/10 attempts.
 
 Play again? (y/n): y
